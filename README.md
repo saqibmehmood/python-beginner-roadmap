@@ -27,7 +27,8 @@ This guide is practical, not boring theory-heavy. After each concept, you’ll p
 18. **Bonus Project**
 ---
 
-## Python Tutorial Book Download Link: https://static.realpython.com/python-basics-sample-chapters.pdf?utm_source=chatgpt.com
+## Python Tutorial Book 
+Download Link: https://static.realpython.com/python-basics-sample-chapters.pdf?utm_source=chatgpt.com
 
 ## 🧑‍💻 1. Data Types
 
